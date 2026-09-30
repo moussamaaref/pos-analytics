@@ -1,0 +1,11 @@
+{
+  "title": "POS Analytics",
+  "description": "This business intelligence platform delivers comprehensive sales, stock, and performance insights for managers, enabling data-driven decision-making.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
